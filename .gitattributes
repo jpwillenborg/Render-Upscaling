@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Mark specific extensions as Unity3D assets so they don't count as Wolfram
+*.wlt linguist-language=Unity3D\ Asset
+*.mat linguist-language=Unity3D\ Asset
+*.asset linguist-language=Unity3D\ Asset
+
+# Alternatively, treat them as "vendored" (ignored in stats)
+# *.wlt linguist-vendored

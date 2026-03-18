@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="ECM2.Walkthrough.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="ECM2.csproj" />
+  <Project Path="ECM2.Examples.csproj" />
+</Solution>
