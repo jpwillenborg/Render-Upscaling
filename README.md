@@ -25,6 +25,8 @@ Jump: Spacebar
 * Render scale of the target resolution
 * Upscaling using FSR
 * Framerate counter
+* Traditional baked lightmaps
+* Adaptive Probe Volume for shadows
 <br><br>
 
 ## Licenses
